@@ -36,6 +36,4 @@ Claro que nada te impede de ignorar o mapa e simplesmente gerar um mundo normal.
 ✔ Construção de máquinas!
 ✔ Mais de 250 mods!
 ✔ Vários mods que reforçam a ameaça de zombies!
-✔ Simple Voice Chat para uma comunicação mais realista e imersiva entre jogadores!               
-
-## Links:
+✔ Simple Voice Chat para uma comunicação mais realista e imersiva entre jogadores!          
